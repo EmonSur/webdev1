@@ -4,7 +4,7 @@ Welcome to the **Hometown Dynamic Website** repository! This project is a dynami
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Hometown Overview**:
   - Information about the town's history, landmarks, and natural attractions.
@@ -18,29 +18,12 @@ Welcome to the **Hometown Dynamic Website** repository! This project is a dynami
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**: For creating structured and semantic web pages.
 - **CSS3**: For styling, layout design, and responsive features.
 - **Custom Fonts**: Includes Montserrat and Playfair Display for enhanced typography.
 
----
-
-## 📂 Folder Structure
-
-```plaintext
-.
-├── images/                           # Contains images used in the website
-├── Montserrat-VariableFont_wght.ttf  # Font for modern and clean design
-├── PlayfairDisplay-VariableFont_wght.ttf # Font for elegant headlines
-├── favicon.ico                       # Custom favicon for the website
-├── history_of_killarney.html         # Page about the town's history
-├── killarney_national_park.html      # Page about the national park
-├── index.html                        # Home page of the website
-├── styles.css                        # Main CSS file for styling
-└── README.md                         # This README file
-
-````
 ---
 
 ## Screenshots
